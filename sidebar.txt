@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[cni:home|Door43 (cni)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-cni|d43-cni repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-cni/archive/master.zip|d43-cni.zip]]
+
+**Recent Changes**
+{{changes>ns = cni}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/cni|Ethnologue data]]
+
